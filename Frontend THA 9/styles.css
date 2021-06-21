@@ -1,0 +1,8 @@
+.btn {
+    height: 85px;
+    margin: 20px;
+  }
+  
+  .clicked {
+    background-color: #456d6b;
+  }
